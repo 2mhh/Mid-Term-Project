@@ -1,0 +1,15 @@
+* {
+    margin: 0; padding: 0;
+  }
+  .cover div{
+    display: inline-block;
+    height: 300px;
+  }
+  .left {
+    width: 300px;
+    background-color: #ccc;
+    float: left;
+  }
+  .right {
+    width: 300px;
+  }
